@@ -1,0 +1,62 @@
+body{
+
+}
+
+.header{
+    background-color: #1F2937;
+}
+
+/* sass */
+.title{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9faf8;
+}
+
+.menu-item,
+.text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9faf8;
+}
+
+.main-buton{
+    background-color: #3882f6;
+    color: white;
+}
+
+.main{
+
+}
+
+.info{
+
+}
+
+h2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
+
+h3{
+    size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.signup{
+    background-color: #3882F6;
+}
+
+.footer{
+
+}
